@@ -1,0 +1,20 @@
+.denomination-list {
+  list-style-type: none;
+  width: 48%;
+  margin-bottom: 16px;
+}
+
+.btn-styles {
+  background-color: #382f5a;
+  color: #c4c4c4;
+  font-family: 'Roboto';
+  font-size: 20px;
+  border-radius: 8px;
+  border: 1px solid #c4c4c4;
+  cursor: pointer;
+  outline: none;
+  padding: 4px;
+  margin: 5px;
+  width: 80px;
+  height: 33px;
+}
